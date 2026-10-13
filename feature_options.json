@@ -1,0 +1,94 @@
+{
+  "UsingIP": [
+    -1,
+    1
+  ],
+  "LongURL": [
+    -1,
+    0,
+    1
+  ],
+  "ShortURL": [
+    -1,
+    1
+  ],
+  "Symbol@": [
+    -1,
+    1
+  ],
+  "PrefixSuffix-": [
+    -1,
+    1
+  ],
+  "SubDomains": [
+    -1,
+    0,
+    1
+  ],
+  "HTTPS": [
+    -1,
+    0,
+    1
+  ],
+  "DomainRegLen": [
+    -1,
+    1
+  ],
+  "HTTPSDomainURL": [
+    -1,
+    1
+  ],
+  "RequestURL": [
+    -1,
+    1
+  ],
+  "AnchorURL": [
+    -1,
+    0,
+    1
+  ],
+  "LinksInScriptTags": [
+    -1,
+    0,
+    1
+  ],
+  "ServerFormHandler": [
+    -1,
+    0,
+    1
+  ],
+  "AbnormalURL": [
+    -1,
+    1
+  ],
+  "AgeofDomain": [
+    -1,
+    1
+  ],
+  "DNSRecording": [
+    -1,
+    1
+  ],
+  "WebsiteTraffic": [
+    -1,
+    0,
+    1
+  ],
+  "PageRank": [
+    -1,
+    1
+  ],
+  "GoogleIndex": [
+    -1,
+    1
+  ],
+  "LinksPointingToPage": [
+    -1,
+    0,
+    1
+  ],
+  "StatsReport": [
+    -1,
+    1
+  ]
+}
