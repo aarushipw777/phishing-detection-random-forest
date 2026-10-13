@@ -238,4 +238,4 @@ environment and open `train_model.ipynb`.
 
 ## Author
 
-[Your name], [Course], [College]
+Aarushi Tiwari
