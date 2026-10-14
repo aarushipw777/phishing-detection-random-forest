@@ -238,4 +238,4 @@ environment and open `train_model.ipynb`.
 
 ## Author
 
-Aarushi Tiwari
+Aarushi Tiwari  Anushka Sinha
